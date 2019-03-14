@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Symbility Intersect Hearthstone</string>
+    <string name="author_name">Justin Smeal</string>
+    <string name="splash_screen_message">Click anywhere to continue</string>
+    <string name="search_hint">Search for a card</string>
+    <string name="empty_card">Empty Card</string>
+</resources>
